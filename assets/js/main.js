@@ -1,9 +1,11 @@
-/**
-* Template Name: Restaurantly - v3.7.0
-* Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+/* ======================================================
+* Name : Rotaract Club of Navi Mumbai Industrial Area
+* URL: https://ronmia.com/
+* Author: Smaran Ummadishetty
+* Contact : +91 96199 47506
+* Email : smaran.ummadishetty@gmail.com 
+======================================================== */
+
 (function() {
   "use strict";
 
@@ -250,7 +252,7 @@
       },
 
       1200: {
-        slidesPerView: 3,
+        slidesPerView: 4,
         spaceBetween: 20
       }
     }
